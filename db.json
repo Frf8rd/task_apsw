@@ -30,7 +30,7 @@
       "status": "Done",
       "priority": "High",
       "dueDate": "2026-10-18",
-      "projectId": "2",
+      "projectId": 1,
       "assignee": "Ana Popescu"
     },
     {
@@ -57,8 +57,8 @@
       "id": 6,
       "title": "Raport săptămânal de performanță",
       "description": "Pregătește o sinteză pentru echipă.",
-      "status": "In progress",
-      "priority": "Low",
+      "status": "Done",
+      "priority": "High",
       "dueDate": "2026-10-19",
       "projectId": 3,
       "assignee": "Mihai Rusu"
