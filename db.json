@@ -24,6 +24,16 @@
   ],
   "tasks": [
     {
+      "id": 1,
+      "title": "Audit UX pentru pagina principală",
+      "description": "Identifică punctele de fricțiune din fluxul actual.",
+      "status": "Done",
+      "priority": "High",
+      "dueDate": "2026-10-18",
+      "projectId": "2",
+      "assignee": "Ana Popescu"
+    },
+    {
       "id": 2,
       "title": "Actualizare componentă de navigare",
       "description": "Revizuiește meniul pentru desktop și mobil.",
